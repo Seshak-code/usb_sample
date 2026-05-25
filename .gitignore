@@ -1,0 +1,5 @@
+# User history
+.history/
+
+# macOS
+.DS_Store
